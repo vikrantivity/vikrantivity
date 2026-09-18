@@ -1,7 +1,7 @@
 # 🌌 Welcome to the Cosmic Realm of Vikrant Kumar! 👋
 
 <p align="center">
-  <!-- ✨ Dynamic Typing Animation Effect (100% Working) ✨ -->
+  <!-- Dynamic Typing Animation Effect (Will activate after you commit/save changes) -->
   <a href="https://github.com">
     <img src="https://demolab.com" alt="Typing Effect" />
   </a>
@@ -13,18 +13,19 @@
 
 ### 🚀 Space Scientist for Humanity | Founder & CEO of Baahmarg and Wodgeland
 
-> "Connecting Humanity by Redefining Creativity through Open Science and Cosmic Data Synthesis."
+> "Synthesizing Cosmic data to enable Open Science. Connecting Humanity by Redefining Creativity through Open Science and Cosmic Data Synthesis."
 
 ---
 
 ## 🎯 My Vision & Core Pursuits
 
-I am a **Science Communicator** and **Calligraphic Author** operating at the intersection of astronomy, advanced computing, and human creativity. My ultimate career trajectory is aimed towards groundbreaking research at premier institutions like the **Max Planck Institutes**, driving global open-science initiatives.
+I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligraphic Author** originating from Jamui, Bihar, India, operating at the dynamic intersection of astronomy, data science, and human consciousness. 
 
-* 🏢 **Entrepreneurship:** Founder & CEO of Baahmarg and Wodgeland.
-* 📊 **Research Engine:** Architect of data pipelines meant to process, clean, and visualize massive astronomical datasets.
-* ✒️ **Creative Philosophy:** Blending ancient calligraphic arts with complex scientific paradigms to make space accessible to everyone.
-* 📖 **Logbook:** Editor & Publisher of *Dhannulekh*—a newsletter delivering cosmic and tech intelligence.
+* 🏢 **Ecosystem & Entrepreneurship:** Founder & CEO of **Baahmarg**, leading a unified parent framework designed to build the blueprint for a true cosmic digital civilization through technological subsidiaries including **Cosmovisit**, **Gharbotics**, **Pravartanic**, and **Wodgeland**.
+* 🌐 **Global Open Science:** Driving global scientific research by working towards establishing the international research arm **'Baahmarg Institute for Open Science'** as an independent non-profit legal entity (gGmbH) permanently based in Germany.
+* 📊 **Research Engine:** Architect of automated data pipelines meant to process, clean, and visualize massive astronomical datasets to unlock deep universal truths.
+* ✒️ **Creative Philosophy & Identity:** Blending calligraphic mastery with astrophysics under **'Vikrantivity'** to unify personal, social, and digital outreach. Celebrating cosmic creativity annually via **'Srishtiful Day'**.
+* 📖 **Logbook:** Thinker and Publisher behind **'Dhannulekh'**—a professional newsletter bringing deep cosmic science, human psychology, and ancient philosophy together.
 
 ---
 
@@ -44,7 +45,7 @@ I am a **Science Communicator** and **Calligraphic Author** operating at the int
 
 ### 🔬 Scientific Research Hubs
 * 🔭 **Core Focus:** Observational Astronomy, Cosmic Data Analysis, Open Science Frameworks.
-* 🧪 **Target Institutions:** IIT Indore (MSc Astronomy) ➡️ Max Planck Institute for Astronomy (Germany).
+* 🧪 **Target Career Path:** IIT JAM Preparation ➡️ IIT Indore (MSc Astronomy) ➡️ Max Planck Institute for Astronomy (Germany).
 
 ---
 
@@ -53,7 +54,7 @@ I am a **Science Communicator** and **Calligraphic Author** operating at the int
 🔬 *Academic papers aur registered scientific authentication ke liye:*
 
 * 🆔 **ORCID iD:** [![ORCID](https://shields.io)](https://orcid.org)
-* 📄 **Featured Papers & Preprints:** *(Aapke future research publications ki list yahan layout ki jayegi)*
+* 📄 **Featured Papers & Preprints:** *(Aapke scientific publications aur astrophysics research papers ki list yahan layout ki jayegi)*
 
 ---
 
@@ -77,10 +78,10 @@ I am a **Science Communicator** and **Calligraphic Author** operating at the int
 * 🔬 **ResearchGate:** *(Apna link aane par yahan add karein)*
 
 ### 📱 2. Personal Socials & Media (vikrantivity)
-*Creative outreach, video content aur networking ke liye:*
+*Creative outreach, video content aur business networks ke liye:*
 
 * 📺 **YouTube (Personal):** [://youtube.com](https://www.://youtube.com)
-* 💼 **LinkedIn Page (vikrantivity):** *(Apne company/brand page ka link yahan lagayein)*
+* 💼 **LinkedIn Page (Baahmarg):** [://linkedin.com](https://www.://linkedin.com) *(Aap apne brand/company page ka actual slug link yahan replace kar sakte hain)*
 * 🐦 **Twitter / X:** [@vikrantivity](https://x.com)
 * 📸 **Instagram:** [@vikrantivity](https://instagram.com)
 * 📧 **Email:** [vikrantivity@gmail.com](mailto:vikrantivity@gmail.com)
