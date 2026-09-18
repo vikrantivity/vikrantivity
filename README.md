@@ -1,7 +1,7 @@
 # 🌌 Welcome to the Cosmic Realm of Vikrant Kumar! 👋
 
 <p align="center">
-  <!-- Dynamic Typing Animation Effect (Will activate after you commit/save changes) -->
+  <!-- Optimized Typing SVG with safe URL encoding -->
   <a href="https://github.com">
     <img src="https://demolab.com" alt="Typing Effect" />
   </a>
@@ -81,7 +81,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 *Creative outreach, video content aur business networks ke liye:*
 
 * 📺 **YouTube (Personal):** [://youtube.com](https://www.://youtube.com)
-* 💼 **LinkedIn Page (Baahmarg):** [://linkedin.com](https://www.://linkedin.com) *(Aap apne brand/company page ka actual slug link yahan replace kar sakte hain)*
+* 💼 **LinkedIn Page (Baahmarg):** [://linkedin.com](https://www.://linkedin.com)
 * 🐦 **Twitter / X:** [@vikrantivity](https://x.com)
 * 📸 **Instagram:** [@vikrantivity](https://instagram.com)
 * 📧 **Email:** [vikrantivity@gmail.com](mailto:vikrantivity@gmail.com)
