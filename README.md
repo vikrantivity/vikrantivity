@@ -1,16 +1,5 @@
 # 🌌 Welcome to the Cosmic Realm of Vikrant Kumar! 👋
 
-<p align="center">
-  <!-- Optimized Typing SVG with safe URL encoding -->
-  <a href="https://github.com">
-    <img src="https://demolab.com" alt="Typing Effect" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
-
 ### 🚀 Space Scientist for Humanity | Founder & CEO of Baahmarg and Wodgeland
 
 > "Synthesizing Cosmic data to enable Open Science. Connecting Humanity by Redefining Creativity through Open Science and Cosmic Data Synthesis."
@@ -32,16 +21,11 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ## 🛠️ Deep Tech Stack & Ecosystem
 
 ### 🌌 Astronomy & Data Science (Core Research Stack)
-📬 *In tools ko master karna astrophysics research ke liye sabse zaroori hai:*
+*In tools ko master karna astrophysics research ke liye sabse zaroori hai:*
 
-![Python](https://shields.io)
-![LaTeX](https://shields.io)
-![Git](https://shields.io)
-![Jupyter](https://shields.io)
-![Pandas](https://shields.io)
-![NumPy](https://shields.io)
-![SQL](https://shields.io)
-![Linux](https://shields.io)
+* 💻 **Programming & Writing:** Python | LaTeX | SQL
+* 📉 **Data Analytics:** Pandas | NumPy | Jupyter Notebooks
+* 🐧 **System & Control:** Linux Ecosystem | Git Version Control
 
 ### 🔬 Scientific Research Hubs
 * 🔭 **Core Focus:** Observational Astronomy, Cosmic Data Analysis, Open Science Frameworks.
@@ -51,19 +35,10 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 ## 📚 Publications & Research Identity
 
-🔬 *Academic papers aur registered scientific authentication ke liye:*
+*Academic papers aur registered scientific authentication ke liye:*
 
-* 🆔 **ORCID iD:** [![ORCID](https://shields.io)](https://orcid.org)
+* 🆔 **ORCID iD:** [0009-0005-0666-2835](https://orcid.org)
 * 📄 **Featured Papers & Preprints:** *(Aapke scientific publications aur astrophysics research papers ki list yahan layout ki jayegi)*
-
----
-
-## 📊 Automated Analytics & Metrics
-
-<p align="left">
-  <img src="https://vercel.app" alt="Vikrant's Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
