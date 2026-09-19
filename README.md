@@ -23,8 +23,8 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 ```🌐
 💻 Programming & Writing   ::  Python | LaTeX | SQL
-📉 Data Analytics         ::  Pandas | NumPy | Jupyter Notebooks
-🐧 System & Control       ::  Linux Ecosystem | Git Version Control
+📉 Data Analytics         ::  SciPy | NumPy | Astropy 
+🐧 System & Control       ::  Linux | Git | Jupyter
 ```
 
 ### 🔬 Scientific Research Hubs
