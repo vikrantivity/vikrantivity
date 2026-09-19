@@ -20,7 +20,6 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ## 🛠️ Deep Tech Stack & Ecosystem
 
 ### 🌌 Astronomy & Data Science (Core Research Stack)
-*In tools ko master karna astrophysics research ke liye sabse zaroori hai:*
 
 * 💻 **Programming & Writing:** Python | LaTeX | SQL
 * 📉 **Data Analytics:** Pandas | NumPy | Jupyter Notebooks
@@ -28,13 +27,11 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 ### 🔬 Scientific Research Hubs
 * 🔭 **Core Focus:** Observational Astronomy, Cosmic Data Analysis, Open Science Frameworks.
-* 🧪 **Target Career Path:** IIT JAM Preparation ➡️ IIT Indore (MSc Astronomy) ➡️ Max Planck Institute for Astronomy (Germany).
+* 🧪 **Target Career Path:** BSc Physics from Koyalanchal University Dhanbad ➡️ IIT Indore (MSc Astronomy) ➡️ Max Planck Institute for Astronomy (Germany).
 
 ---
 
 ## 📚 Publications & Research Identity
-
-*Academic papers aur registered scientific authentication ke liye:*
 
 * 🆔 **ORCID iD:** [0009-0005-0666-2835](https://orcid.org/0009-0005-0666-2835)
 * 📄 **Featured Papers & Preprints:** *(Upcoming scientific publications and astrophysics research papers list)*
@@ -43,22 +40,19 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 ## 🌐 Broadcast Channels & Networks
 
-### 🎓 1. Professional & Academic Hub (Vikrant Kumar)
-*Astrophysics research aur serious networks ke liye:*
+### 🎓 Professional & Academic Hub (Vikrant Kumar)
 
 * 💼 **LinkedIn Profile:** [://linkedin.com](https://www.://linkedin.com)
 * 🔬 **ResearchGate:** *(New profile coming soon)*
 * 🦋 **Bluesky Network:** [@vikrantivity.bsky.social](https://bsky.app)
 
-### 📰 2. Dhannulekh Network (The Logbook of Scientific Words)
-*Deep cosmic science, human psychology, aur philosophy ka learning log:*
+### 📰 Dhannulekh Network (The Logbook of Scientific Words)
 
 * ✍️ **LinkedIn Newsletter (Text):** [Dhannulekh on LinkedIn](https://linkedin.com)
 * 🎥 **YouTube Channel (Video):** [://youtube.com](https://www.://youtube.com)
 * 📱 **WhatsApp Channel (Hybrid Feed):** [Join Dhannulekh Feed](https://whatsapp.com)
 
-### 📱 3. Personal Outreach & Media (vikrantivity)
-*Creative science communication, updates aur lifestyle networking ke liye:*
+### 📱 Personal Outreach & Media (vikrantivity)
 
 * 📺 **YouTube (Personal):** [://youtube.com](https://www.://youtube.com)
 * 🐦 **Twitter / X Profile:** [@vikrantivity](https://x.com)
