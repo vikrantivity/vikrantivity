@@ -20,6 +20,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ## 🛠️ Deep Tech Stack & Ecosystem
 
 ### 🌌 Astronomy & Data Science (Core Research Stack)
+*In tools ko master karna astrophysics research ke liye sabse zaroori hai:*
 
 * 💻 **Programming & Writing:** Python | LaTeX | SQL
 * 📉 **Data Analytics:** Pandas | NumPy | Jupyter Notebooks
@@ -27,36 +28,44 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 ### 🔬 Scientific Research Hubs
 * 🔭 **Core Focus:** Observational Astronomy, Cosmic Data Analysis, Open Science Frameworks.
-* 🧪 **Target Career Path:** BSc Physics from Koyalanchal University Dhanbad ➡️ IIT Indore (MSc Astronomy) ➡️ Max Planck Institute for Astronomy (Germany).
+* 🧪 **Target Career Path:** IIT JAM Preparation ➡️ IIT Indore (MSc Astronomy) ➡️ Max Planck Institute for Astronomy (Germany).
 
 ---
 
 ## 📚 Publications & Research Identity
 
+*Academic papers aur registered scientific authentication ke liye:*
+
 * 🆔 **ORCID iD:** [0009-0005-0666-2835](https://orcid.org/0009-0005-0666-2835)
-* 📄 **Featured Papers & Preprints:** *(Upcoming scientific publications and astrophysics research papers list)*
+* 📄 **Featured Papers & Preprints:** *(Aapke scientific publications aur astrophysics research papers ki list yahan layout ki jayegi)*
 
 ---
 
 ## 🌐 Broadcast Channels & Networks
 
-### 📰 Dhannulekh Network (The Logbook of Scientific Words)
+### 📰 1. Dhannulekh Network (The Logbook of Scientific Words)
+*Deep cosmic science, human psychology, aur philosophy ka learning log:*
 
-* ✍️ **LinkedIn Newsletter (Text):** [Dhannulekh on LinkedIn](https://linkedin.com)
-* 🎥 **YouTube Channel (Video):** [://youtube.com](https://www.://youtube.com)
-* 📱 **WhatsApp Channel (Hybrid Feed):** [Join Dhannulekh Feed](https://whatsapp.com)
+<a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn Newsletter" /></a>
+<a href="https://youtube.com"><img src="https://shields.io" alt="YouTube Dhannulekh" /></a>
+<a href="https://whatsapp.com"><img src="https://shields.io" alt="WhatsApp Channel" /></a>
 
-### 🎓 Professional & Academic Hub (Vikrant Kumar)
+### 📱 2. Personal Outreach & Media (vikrantivity)
+*Creative science communication, updates aur lifestyle networking ke liye:*
 
-* 💼 **LinkedIn Profile:** [://linkedin.com](https://www.://linkedin.com)
-* 🔬 **ResearchGate:** *(New profile coming soon)*
-* 🦋 **Bluesky Network:** [@vikrantivity.bsky.social](https://bsky.app)
+<a href="https://youtube.com"><img src="https://shields.io" alt="YouTube Personal" /></a>
+<a href="https://x.com"><img src="https://shields.io" alt="Twitter/X" /></a>
+<a href="https://instagram.com"><img src="https://shields.io" alt="Instagram" /></a>
 
-### 📱 Personal Outreach & Media (vikrantivity)
+### 🎓 3. Professional & Academic Hub (Vikrant Kumar)
+*Astrophysics research aur serious networks ke liye:*
 
-* 📺 **YouTube (Personal):** [://youtube.com](https://www.://youtube.com)
-* 🐦 **Twitter / X Profile:** [@vikrantivity](https://x.com)
-* 📸 **Instagram Feed:** [@vikrantivity](https://instagram.com)
+<a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn Profile" /></a>
+<a href="https://bsky.app"><img src="https://shields.io" alt="Bluesky" /></a>
+<a href="#"><img src="https://shields.io" alt="ResearchGate" /></a>
 
 ---
-<p align="center">✨ <a href="https://vikrantivity.com" style="text-decoration:none; color:inherit;"><b>Redefining Creativity.</b></a> ✨</p>
+
+<p align="center">
+  🪐 <b><a href="https://vikrantivity.com" style="text-decoration:none; color:#0E76A8;">Thank you for visiting the Cosmos! Connecting Humanity by Redefining Creativity.</a></b> 🪐
+</p>
