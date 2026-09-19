@@ -46,18 +46,18 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | :--- | :--- | :--- |
 | | | |
 | 📰 **Scientific Logbook** | | *(Logbook of Scientific Words)* |
-| ✍️ Letter | [Dhannulekh](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7499615428529451008) | Deep Science & Philosophy Articles |
-| 🎥 YouTube | [Watch on Channel](https://www.://youtube.com/@dhannulekh) | Cosmic & Deep Tech Broadcasts |
+| ✍️ Letter | [Dhannulekh](https://linkedin.com/build-relation/newsletter-follow?entityUrn=7499615428529451008) | Deep Science & Philosophy Articles |
+| 🎥 YouTube | [Watch on Channel](https://youtube.com/@dhannulekh) | Cosmic & Deep Tech Broadcasts |
 | 📱 WhatsApp | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Quick Logbook & Media Updates |
 | | | |
 | 📱 **Personal Outreach** | | *(Watch vikrantivity for more)* |
-| 🐦 Twitter | [Subscribe](https://://x.com/vikrantivity) | Micro-blogging & Deep Tech |
-| 📺 YouTube | [Watch on Channel](https://www.://youtube.com/@vikrantivity) | Personal Science Communication |
-| 📸 Instagram | [Follow on Instagram](https://://instagram.com/vikrantivity) | Calligraphy & Visual Communication |
+| 🐦 Twitter | [Subscribe](https://x.com/vikrantivity) | Micro-blogging & Deep Tech |
+| 📺 YouTube | [Watch on Channel](https://youtube.com/@vikrantivity) | Personal Science Communication |
+| 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | Calligraphy & Visual Communication |
 | | | |
 | 🎓 **Professional Portfolio** | | *(Welcome to Vikrant Kumar)* |
 | 🦋 Bluesky | [Follow on Bluesky ](https://bsky.app/profile/vikrantivity) | Open Science Community Hub |
-| 💼 LinkedIn | [Connect on LinkedIn](https://www.://linkedin.com/in/vikrantivity) | Executive & Enterprise Identity |
+| 💼 LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/vikrantivity) | Executive & Enterprise Identity |
 | 🔬 ResearchGate | [Welcome to ResearchGate](https://researchgate.net/profile/vikrantivity). | Academic Preprints & Networks |
 
 ---
