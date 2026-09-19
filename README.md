@@ -35,7 +35,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 ## 📚 Publications & Research Identity
 
-* 🆔 **ORCID iD:** [0009-0005-0666-2835](https://orcid.org)
+* 🆔 **ORCID iD:** [Welcome to ORCHiD](https://orcid.org/0009-0005-0666-2835)
 * 📄 **Featured Papers & Preprints:** *(Upcoming scientific publications and astrophysics research papers lists)*
 
 ---
@@ -46,19 +46,19 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | :--- | :--- | :--- |
 | | | |
 | 📰 **Dhannulekh Network** | | *(The Logbook of Scientific Words)* |
-| ✍️ Text & Articles | [Dhannulekh on LinkedIn](https://linkedin.com) | Deep Science & Philosophy Articles |
-| 🎥 Video Publications | [://youtube.com](https://www.://youtube.com) | Cosmic Space Broadcasts |
-| 📱 Hybrid Feed | [Join Dhannulekh WhatsApp](https://whatsapp.com) | Quick Updates & Media Logs |
+| ✍️ Text & Articles | [On LinkedIn](https://linkedin.com) | Deep Science & Philosophy Articles |
+| 🎥 Video Publications | [Watch on YouTube](https://www.://youtube.com/@dhannulekh) | Cosmic Space Broadcasts |
+| 📱 Hybrid Feed | [Join on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Quick Updates & Media Logs |
 | | | |
 | 📱 **Personal Outreach** | | *(vikrantivity)* |
-| 📺 YouTube | [://youtube.com](https://www.://youtube.com) | Personal Science Communication |
-| 🐦 Twitter / X | [://x.com](https://://x.com) | Micro-blogging & Space Tech |
-| 📸 Instagram | [://instagram.com](https://://instagram.com) | Calligraphy & Visual Art |
+| 📺 YouTube | [Subscribe](https://www.://youtube.com/@vikrantivity) | Personal Science Communication |
+| 🐦 Twitter / X | [Welcome to X](https://://x.com/vikrantivity) | Micro-blogging & Space Tech |
+| 📸 Instagram | [Follow on Instagram](https://://instagram.com/vikrantivity) | Calligraphy & Visual Art |
 | | | |
 | 🎓 **Professional Hub** | | *(Vikrant Kumar)* |
-| 💼 LinkedIn Profile | [://linkedin.com](https://www.://linkedin.com) | Executive & Enterprise Identity |
-| 🦋 Bluesky Network | [bsky.app/profile/vikrantivity](https://bsky.app) | Open Science Community Hub |
-| 🔬 ResearchGate | *(New profile coming soon)* | Academic Preprints & Networks |
+| 🦋 Bluesky | [Follow on Bluesky ](https://bsky.app/profile/vikrantivity) | Open Science Community Hub |
+| 💼 LinkedIn | [Connect on LinkedIn](https://www.://linkedin.com/in/vikrantivity) | Executive & Enterprise Identity |
+| 🔬 ResearchGate | [Welcome to ResearchGate](https://researchgate.net/profile/vikrantivity). | Academic Preprints & Networks |
 
 ---
 
