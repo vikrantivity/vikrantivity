@@ -47,12 +47,12 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | | | |
 | 📰 **Dhannulekh Network** | | *(The Logbook of Scientific Words)* |
 | ✍️ Text & Articles | [Subscribe](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7499615428529451008) | Deep Science & Philosophy Articles |
-| 🎥 Video Publications | [Watch on YouTube](https://www.://youtube.com/@dhannulekh) | Cosmic Space Broadcasts |
-| 📱 Hybrid Feed | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Quick Updates & Media Logs |
+| 🎥 Video & Visual Feed| [Watch on Channel](https://www.://youtube.com/@dhannulekh) | Cosmic Space Broadcasts |
+| 📱 Hybrid Publication | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Quick Updates & Media Logs |
 | | | |
 | 📱 **Personal Outreach** | | *(vikrantivity)* |
-| 📺 YouTube | [Subscribe](https://www.://youtube.com/@vikrantivity) | Personal Science Communication |
-| 🐦 Twitter / X | [Welcome to X](https://://x.com/vikrantivity) | Micro-blogging & Space Tech |
+| 🐦 X | [Subscribe](https://://x.com/vikrantivity) | Micro-blogging & Space Tech |
+| 📺 YouTube | [Watch on Channel](https://www.://youtube.com/@vikrantivity) | Personal Science Communication |
 | 📸 Instagram | [Follow on Instagram](https://://instagram.com/vikrantivity) | Calligraphy & Visual Art |
 | | | |
 | 🎓 **Professional Hub** | | *(Vikrant Kumar)* |
