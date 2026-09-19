@@ -37,7 +37,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 *Academic papers aur registered scientific authentication ke liye:*
 
 * 🆔 **ORCID iD:** [0009-0005-0666-2835](https://orcid.org/0009-0005-0666-2835)
-* 📄 **Featured Papers & Preprints:** *(Aapke scientific publications aur astrophysics research papers ki list yahan layout ki jayegi)*
+* 📄 **Featured Papers & Preprints:** *(Upcoming scientific publications and astrophysics research papers list)*
 
 ---
 
@@ -47,7 +47,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 *Astrophysics research aur serious networks ke liye:*
 
 * 💼 **LinkedIn Profile:** [://linkedin.com](https://www.://linkedin.com)
-* 🔬 **ResearchGate:** *(Apna link aane par yahan add karein)*
+* 🔬 **ResearchGate:** *(New profile coming soon)*
 * 🦋 **Bluesky Network:** [@vikrantivity.bsky.social](https://bsky.app)
 
 ### 📰 2. Dhannulekh Network (The Logbook of Scientific Words)
