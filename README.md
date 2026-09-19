@@ -44,6 +44,8 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 | Platform | Channel / Identity | Context & Purpose |
 | :--- | :--- | :--- |
+| 🗣️ **Global Linguistics** | *(Communication & Outreach Base)* | |
+| **English** | **Hindi** | **German** |
 | | | |
 | 📰 **Scientific Logbook** | | *(Logbook of Scientific Words)* |
 | ✍️ Letter | [Dhannulekh](https://linkedin.com/build-relation/newsletter-follow?entityUrn=7499615428529451008) | Deep Science & Philosophy Articles |
