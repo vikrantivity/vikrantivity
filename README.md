@@ -40,17 +40,17 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 ## 🌐 Broadcast Channels & Networks
 
-### 🎓 Professional & Academic Hub (Vikrant Kumar)
-
-* 💼 **LinkedIn Profile:** [://linkedin.com](https://www.://linkedin.com)
-* 🔬 **ResearchGate:** *(New profile coming soon)*
-* 🦋 **Bluesky Network:** [@vikrantivity.bsky.social](https://bsky.app)
-
 ### 📰 Dhannulekh Network (The Logbook of Scientific Words)
 
 * ✍️ **LinkedIn Newsletter (Text):** [Dhannulekh on LinkedIn](https://linkedin.com)
 * 🎥 **YouTube Channel (Video):** [://youtube.com](https://www.://youtube.com)
 * 📱 **WhatsApp Channel (Hybrid Feed):** [Join Dhannulekh Feed](https://whatsapp.com)
+
+### 🎓 Professional & Academic Hub (Vikrant Kumar)
+
+* 💼 **LinkedIn Profile:** [://linkedin.com](https://www.://linkedin.com)
+* 🔬 **ResearchGate:** *(New profile coming soon)*
+* 🦋 **Bluesky Network:** [@vikrantivity.bsky.social](https://bsky.app)
 
 ### 📱 Personal Outreach & Media (vikrantivity)
 
