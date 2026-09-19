@@ -58,7 +58,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | 🎓 **Professional Portfolio** | | *(Welcome to Vikrant Kumar)* |
 | 🦋 Bluesky | [Follow on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Community Hub |
 | 💼 LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/vikrantivity) | Executive & Enterprise Identity |
-| 🔬 ResearchGate | [Welcome to ResearchGate](https://researchgate.net/profile). | Academic Preprints & Networks |
+| 🔬 ResearchGate | [Welcome to ResearchGate](https://researchgate.net). | Academic Preprints & Networks |
 
 ---
 
