@@ -56,9 +56,9 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | Calligraphy & Visual Communication |
 | | | |
 | 🎓 **Professional Portfolio** | | *(Welcome to Vikrant Kumar)* |
-| 🦋 Bluesky | [Follow on Bluesky ](https://bsky.app/profile/vikrantivity) | Open Science Community Hub |
+| 🦋 Bluesky | [Follow on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Community Hub |
 | 💼 LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/vikrantivity) | Executive & Enterprise Identity |
-| 🔬 ResearchGate | [Welcome to ResearchGate](https://researchgate.net/profile/vikrantivity). | Academic Preprints & Networks |
+| 🔬 ResearchGate | [Welcome to ResearchGate](https://researchgate.net/profile). | Academic Preprints & Networks |
 
 ---
 
