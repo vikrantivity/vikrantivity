@@ -46,12 +46,12 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | :--- | :--- | :--- |
 | | | |
 | 📰 **Dhannulekh Network** | | *(The Logbook of Scientific Words)* |
-| ✍️ Text & Articles | [Subscribe](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7499615428529451008) | Deep Science & Philosophy Articles |
-| 🎥 Video & Visual Feed| [Watch on Channel](https://www.://youtube.com/@dhannulekh) | Cosmic Space Broadcasts |
-| 📱 Hybrid Publication | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Quick Updates & Media Logs |
+| ✍️ Logbook | [Subscribe](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7499615428529451008) | Deep Science & Philosophy Articles |
+| 🎥 YouTube | [Watch on Channel](https://www.://youtube.com/@dhannulekh) | Cosmic Space Broadcasts |
+| 📱 WhatsApp | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Quick Updates & Media Logs |
 | | | |
 | 📱 **Personal Outreach** | | *(vikrantivity)* |
-| 🐦 X | [Subscribe](https://://x.com/vikrantivity) | Micro-blogging & Space Tech |
+| 🐦 Twitter | [Subscribe](https://://x.com/vikrantivity) | Micro-blogging & Space Tech |
 | 📺 YouTube | [Watch on Channel](https://www.://youtube.com/@vikrantivity) | Personal Science Communication |
 | 📸 Instagram | [Follow on Instagram](https://://instagram.com/vikrantivity) | Calligraphy & Visual Art |
 | | | |
