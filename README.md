@@ -22,9 +22,11 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ### 🌌 Astronomy & Data Science (Core Research Stack)
 *In tools ko master karna astrophysics research ke liye sabse zaroori hai:*
 
-* 💻 **Programming & Writing:** Python | LaTeX | SQL
-* 📉 **Data Analytics:** Pandas | NumPy | Jupyter Notebooks
-* 🐧 **System & Control:** Linux Ecosystem | Git Version Control
+```🌐
+💻 Programming & Writing   ::  Python | LaTeX | SQL
+📉 Data Analytics         ::  Pandas | NumPy | Jupyter Notebooks
+🐧 System & Control       ::  Linux Ecosystem | Git Version Control
+```
 
 ### 🔬 Scientific Research Hubs
 * 🔭 **Core Focus:** Observational Astronomy, Cosmic Data Analysis, Open Science Frameworks.
@@ -43,26 +45,23 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 ## 🌐 Broadcast Channels & Networks
 
-### 📰 1. Dhannulekh Network (The Logbook of Scientific Words)
-*Deep cosmic science, human psychology, aur philosophy ka learning log:*
-
-<a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn Newsletter" /></a>
-<a href="https://youtube.com"><img src="https://shields.io" alt="YouTube Dhannulekh" /></a>
-<a href="https://whatsapp.com"><img src="https://shields.io" alt="WhatsApp Channel" /></a>
-
-### 📱 2. Personal Outreach & Media (vikrantivity)
-*Creative science communication, updates aur lifestyle networking ke liye:*
-
-<a href="https://youtube.com"><img src="https://shields.io" alt="YouTube Personal" /></a>
-<a href="https://x.com"><img src="https://shields.io" alt="Twitter/X" /></a>
-<a href="https://instagram.com"><img src="https://shields.io" alt="Instagram" /></a>
-
-### 🎓 3. Professional & Academic Hub (Vikrant Kumar)
-*Astrophysics research aur serious networks ke liye:*
-
-<a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn Profile" /></a>
-<a href="https://bsky.app"><img src="https://shields.io" alt="Bluesky" /></a>
-<a href="#"><img src="https://shields.io" alt="ResearchGate" /></a>
+| Platform | Channel / Identity | Context & Purpose |
+| :--- | :--- | :--- |
+| | | |
+| 📰 **Dhannulekh Network** | | *(The Logbook of Scientific Words)* |
+| ✍️ Text & Articles | [Dhannulekh on LinkedIn](https://linkedin.com) | Deep Science & Philosophy Articles |
+| 🎥 Video Publications | [://youtube.com](https://www.://youtube.com) | Cosmic Space Broadcasts |
+| 📱 Hybrid Feed | [Join Dhannulekh WhatsApp](https://whatsapp.com) | Quick Updates & Media Logs |
+| | | |
+| 📱 **Personal Outreach** | | *(vikrantivity)* |
+| 📺 YouTube | [://youtube.com](https://www.://youtube.com) | Personal Science Communication |
+| 🐦 Twitter / X | [://x.com](https://://x.com) | Micro-blogging & Space Tech |
+| 📸 Instagram | [://instagram.com](https://://instagram.com) | Calligraphy & Visual Art |
+| | | |
+| 🎓 **Professional Hub** | | *(Vikrant Kumar)* |
+| 💼 LinkedIn Profile | [://linkedin.com](https://www.://linkedin.com) | Executive & Enterprise Identity |
+| 🦋 Bluesky Network | [bsky.app/profile/vikrantivity](https://bsky.app) | Open Science Community Hub |
+| 🔬 ResearchGate | *(New profile coming soon)* | Academic Preprints & Networks |
 
 ---
 
