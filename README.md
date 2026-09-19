@@ -20,7 +20,6 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ## 🛠️ Deep Tech Stack & Ecosystem
 
 ### 🌌 Astronomy & Data Science (Core Research Stack)
-*In tools ko master karna astrophysics research ke liye sabse zaroori hai:*
 
 ```🌐
 💻 Programming & Writing   ::  Python | LaTeX | SQL
@@ -30,16 +29,14 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 ### 🔬 Scientific Research Hubs
 * 🔭 **Core Focus:** Observational Astronomy, Cosmic Data Analysis, Open Science Frameworks.
-* 🧪 **Target Career Path:** IIT JAM Preparation ➡️ IIT Indore (MSc Astronomy) ➡️ Max Planck Institute for Astronomy (Germany).
+* 🧪 **Target Pathway:** IIT Indore (MSc Astronomy) ➡️ Max Planck Institute for Astronomy (Germany).
 
 ---
 
 ## 📚 Publications & Research Identity
 
-*Academic papers aur registered scientific authentication ke liye:*
-
-* 🆔 **ORCID iD:** [0009-0005-0666-2835](https://orcid.org/0009-0005-0666-2835)
-* 📄 **Featured Papers & Preprints:** *(Aapke scientific publications aur astrophysics research papers ki list yahan layout ki jayegi)*
+* 🆔 **ORCID iD:** [0009-0005-0666-2835](https://orcid.org)
+* 📄 **Featured Papers & Preprints:** *(Upcoming scientific publications and astrophysics research papers lists)*
 
 ---
 
@@ -66,5 +63,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ---
 
 <p align="center">
-  🪐 <b><a href="https://vikrantivity.com" style="text-decoration:none; color:#0E76A8;">Thank you for visiting the Cosmos! Connecting Humanity by Redefining Creativity.</a></b> 🪐
+  🛸 <b>Explore the Cosmic Ecosystem Beyond GitHub</b><br>
+  ✨ <b><a href="https://vikrantivity.com" style="text-decoration:none; color:#0E76A8;">Thank you for visiting! Click here to explore the main website ↗</a></b> ✨<br>
+  <i>"Connecting Humanity by Redefining Creativity."</i>
 </p>
