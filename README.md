@@ -65,4 +65,4 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 * 📸 **Instagram Feed:** [@vikrantivity](https://instagram.com)
 
 ---
-<p align="center">✨ <a href="https://vikrantivity.com" style="text-decoration:none; color:inherit;"><b>Connecting Humanity by Redefining Creativity.</b></a> ✨</p>
+<p align="center">✨ <a href="https://vikrantivity.com" style="text-decoration:none; color:inherit;"><b>Redefining Creativity.</b></a> ✨</p>
