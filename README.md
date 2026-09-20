@@ -35,7 +35,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 ## 📚 Publications & Research Identity
 
-* 🆔 **ORCID iD:** [Welcome to the world of Open Researcher and Contributor 🆔](https://orcid.org/0009-0005-0666-2835)
+* 🆔 **ORCID iD:** [Follow my research and journey for the world as an Open Researcher and Contributor 🆔](https://orcid.org/0009-0005-0666-2835)
 * 📄 **Featured Papers & Preprints:** *(Upcoming scientific publications and astrophysics research papers lists)*
 
 ---
