@@ -23,8 +23,8 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 ```🌐
 💻 Programming & Writing   ::  Python | LaTeX | SQL
-📉 Scientific Computing       ::  SciPy | NumPy | Astropy 
-🐧 System & Control       ::  Linux | Git | Jupyter
+📉 Scientific Computing    ::  SciPy | NumPy | Astropy 
+🐧 System & Control        ::  Linux | Git | Jupyter
 ```
 
 ### 🔬 Scientific Research Hubs
@@ -56,7 +56,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | Calligraphy & Visual Communication |
 | | | |
 | 🎓 **Professional Portfolio** | | *(Welcome to Vikrant Kumar)* |
-| 🦋 Bluesky | [Follow on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Community Hub |
+| 🦋 Bluesky | [Open on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Community Hub |
 | 💼 LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/vikrantivity) | Executive & Enterprise Identity |
 | 🔬 ResearchGate | [Join on ResearchGate](https://researchgate.net) | Academic Preprints & Networks |
 | | | |
