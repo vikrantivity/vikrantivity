@@ -51,7 +51,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | 📱 WhatsApp | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Quick Logbook & Media Updates |
 | | | |
 | 📱 **Personal Outreach** | | *(Watch vikrantivity for more)* |
-| 🐦 Twitter | [Vikrantivity](https://x.com/vikrantivity) | Micro-blogging & Deep Tech |
+| 🐦 Twitter | [@vikrantivity](https://x.com/vikrantivity) | Micro-blogging & Deep Tech |
 | 📺 YouTube | [Watch on Channel](https://youtube.com/@vikrantivity) | Personal Science Communication |
 | 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | Calligraphy & Visual Communication |
 | | | |
