@@ -44,7 +44,6 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 | Platform | Channel / Identity | Context & Purpose |
 | :--- | :--- | :--- |
-| 🗣️ **[Global Linguistics](https://wikipedia.org)** | **[English](https://wikipedia.org) \| [Hindi](https://wikipedia.org) \| [German](https://wikipedia.org)** | *(Communication & Outreach Base)* |
 | | | |
 | 📰 **Scientific Logbook** | | *(Logbook of Scientific Words)* |
 | ✍️ Letter | [Dhannulekh](https://linkedin.com/build-relation/newsletter-follow?entityUrn=7499615428529451008) | Deep Science & Philosophy Articles |
@@ -60,6 +59,8 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | 🦋 Bluesky | [Follow on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Community Hub |
 | 💼 LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/vikrantivity) | Executive & Enterprise Identity |
 | 🔬 ResearchGate | [Welcome to ResearchGate](https://researchgate.net). | Academic Preprints & Networks |
+| | | |
+| 🗣️ **[Communication Medium](https://en.wikipedia.org/wiki/Linguistics)** | [English](https://en.wikipedia.org/wiki/English_language) \| [Hindi](https://en.wikipedia.org/wiki/Hindi) \| [German](https://en.wikipedia.org/wiki/German_language) | Global Outreach and Research Base |
 
 ---
 
