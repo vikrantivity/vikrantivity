@@ -22,7 +22,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ### 🌌 Astronomy & Data Science (Core Research Stack)
 
 ```🌐
-🐧 System & Control        ::  Linux | Git | Jupyter
+🐧 System & Control        ::  Linux | Git | VS Code 
 💻 Programming & Writing   ::  Python | LaTeX | SQL
 📉 Scientific Computing    ::  SciPy | NumPy | Astropy 
 👁️ Data Visualization      ::  Matplotlib | Seaborn | Plotly
