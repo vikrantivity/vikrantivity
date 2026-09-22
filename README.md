@@ -22,13 +22,15 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ### 🌌 Astronomy & Data Science (Core Research Stack)
 
 ```🌐
+🐧 System & Control        ::  Linux | Git | Jupyter
 💻 Programming & Writing   ::  Python | LaTeX | SQL
 📉 Scientific Computing    ::  SciPy | NumPy | Astropy 
-🐧 System & Control        ::  Linux | Git | Jupyter
+👁️ Data Visualization      ::   Matplotlib | Seaborn | Plotly
+🤖 Machine Learning & AI     :: Scikit-Learn | PyTorch | Hugging Face
 ```
 
 ### 🔬 Scientific Research Hubs
-* 🔭 **Core Focus:** Observational Astronomy, Cosmic Data Analysis, Open Science Frameworks.
+* 🔭 **Core Focus:** Observational Astronomy, Cosmic Data Analysis (utilizing **SymPy** for cosmic laws derivation), Open Science Frameworks.
 * 🧪 **Target Pathway:** IIT Indore (MSc Astronomy) ➡️ Max Planck Institute for Astronomy (Germany).
 
 ---
