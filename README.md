@@ -62,7 +62,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | 💼 LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/vikrantivity) | Executive & Enterprise Identity |
 | 🔬 ResearchGate | [Join on ResearchGate](https://researchgate.net) | Academic Preprints & Networks |
 | | | |
-| 🗣️ **[Communication](https://en.wikipedia.org/wiki/Communication)** | [Hindi](https://en.wikipedia.org/wiki/Hindi) \| [English](https://en.wikipedia.org/wiki/English_language) \| [German](https://en.wikipedia.org/wiki/German_language) | Global Outreach and Research Base |
+| 🗣️ **[Communication]** | [Hindi] \| [English] \| [German] | Global Outreach and Research Base |
 
 ---
 
