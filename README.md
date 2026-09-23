@@ -30,7 +30,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ```
 
 ### 🔬 Scientific Research Hubs
-* 🔭 **Core Focus:** Observational Astronomy, and utilizing **SymPy** for laws derivation within Open Science Frameworks.
+* 🔭 **Core Focus:** Observational Astronomy, and utilizing **SymPy** for laws derivation within Open Frameworks.
 * 🧪 **Target Pathway:** IIT Indore (MSc Astronomy) ➡️ Max Planck Institute for Astronomy (Germany).
 
 ---
