@@ -48,7 +48,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | :--- | :--- | :--- |
 | | | |
 | 📰 **Scientific Logbook** | **Dhannulekh** | **(Logbook of Scientific Words)** |
-| ✍️ Letter | [Communicator](https://linkedin.com/build-relation/newsletter-follow?entityUrn=7499615428529451008) | Deep Science & Philosophy Articles |
+| ✍️ Logbook | [Communicator](https://linkedin.com/build-relation/newsletter-follow?entityUrn=7499615428529451008) | Deep Science & Philosophy Articles |
 | 🎥 YouTube | [Watch on Channel](https://youtube.com/@dhannulekh) | Cosmic & Deep Tech Broadcasts |
 | 💬 WhatsApp | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Quick Logbook & Media Updates |
 | | | |
