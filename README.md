@@ -47,17 +47,17 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | Platform | Channel / Identity | Context & Purpose |
 | :--- | :--- | :--- |
 | | | |
-| 📰 **Scientific Logbook** | | *(Logbook of Scientific Words)* |
-| ✍️ Letter | [Dhannulekh](https://linkedin.com/build-relation/newsletter-follow?entityUrn=7499615428529451008) | Deep Science & Philosophy Articles |
+| 📰 **Scientific Logbook** | **Dhannulekh** | **(Logbook of Scientific Words)** |
+| ✍️ Letter | [Communicator](https://linkedin.com/build-relation/newsletter-follow?entityUrn=7499615428529451008) | Deep Science & Philosophy Articles |
 | 🎥 YouTube | [Watch on Channel](https://youtube.com/@dhannulekh) | Cosmic & Deep Tech Broadcasts |
 | 💬 WhatsApp | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Quick Logbook & Media Updates |
 | | | |
-| 📱 **Personal Outreach** | | *(Watch vikrantivity for more)* |
+| 📱 **Personal Outreach** | **Vikrantivity** | **(Watch vikrantivity for more)** |
 | 🐦 Twitter | [Communicator](https://x.com/vikrantivity) | Micro-blogging & Deep Tech |
 | 📺 YouTube | [Watch on Channel](https://youtube.com/@vikrantivity) | Personal Science Communication |
 | 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | Calligraphy & Visual Communication |
 | | | |
-| 🎓 **Professional Portfolio** | | *(Welcome to Vikrant Kumar)* |
+| 🎓 **Professional Portfolio** | **Vikrant Kumar** | **(Welcome to Vikrant Kumar)** |
 | 🦋 Bluesky | [Open on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Community Hub |
 | 💼 LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/vikrantivity) | Executive & Enterprise Identity |
 | 🔬 ResearchGate | [Join on ResearchGate](https://researchgate.net) | Academic Preprints & Networks |
