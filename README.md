@@ -18,15 +18,15 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ### 🌌 Astronomy & Data Science (Core Research Stack)
 
 ```🌐
-🐧 System & Control        ::  Linux | Git | VS Code 
-💻 Programming & Writing   ::  Python | LaTeX | SQL
-📉 Scientific Computing    ::  SciPy | NumPy | Astropy 
-👁️ Data Visualization      ::  Matplotlib | Seaborn | Plotly
-🤖 Machine Learning & AI   ::  Scikit-Learn | PyTorch | Hugging Face
+🐧 System & Control        ::  Linux | Git | VS Code | Docker | AWS (alongwith GCP) 
+💻 Programming & Writing   ::  Python | LaTeX | SQL | SymPy | Markdown
+📉 Scientific Computing    ::  SciPy | NumPy | Astropy | Dask | Pandas 
+👁️ Data Visualization      ::  Matplotlib | Seaborn | Plotly | OpenCV | Bokeh
+🤖 Machine Learning & AI   ::  Scikit-Learn | PyTorch | Hugging Face | TensorFlow | Keras
 ```
 
 ### 🔬 Scientific Research Hubs
-* 🔭 **Core Focus:** Observational Astronomy, and utilizing **SymPy** for derivation of laws within Open Frameworks.
+* 🔭 **Core Focus:** Synthesizing Cosmic laws and engineering human eternity through Observational Astronomy, and derivation of laws within Open Frameworks.
 * 🧪 **Target Pathway:** IIT Indore (MSc Astronomy) ➡️ Max Planck Institute for Astronomy (Germany).
 
 ---
@@ -44,9 +44,9 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | :--- | :--- | :--- |
 | | | |
 | 📢 **Public Outreach** | **Vikrantivity** | **(Watch vikrantivity for more)** |
-| 🐦 Twitter | [Communicator](https://x.com/vikrantivity) | Micro-blogging & Deep Tech |
+| 🐦 Twitter | [Communicator](https://x.com/vikrantivity) | Scientific Highlights & Events |
 | 📺 YouTube | [Watch on Channel](https://youtube.com/@vikrantivity) | Science Communication & Outreach |
-| 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | Calligraphy & Visual Communication |
+| 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | Calligraphy & Creative Expressions |
 | | | |
 | 📰 **Scientific Logbook** | **Dhannulekh** | **(Logbook of Scientific Words)** |
 | ✍️ E-letter | [Communicator](https://linkedin.com/company/dhannulekh) | Deep Science and Philosophy |
