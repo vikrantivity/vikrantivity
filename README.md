@@ -10,7 +10,7 @@
 
 I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligraphic Author** originating from Jamui, Bihar, India, operating at the dynamic intersection of astronomy, data science, and human consciousness. 
 
-* 🏢 **Ecosystem & Entrepreneurship:** Founder & CEO of **Baahmarg**, leading a unified parent framework designed to build the blueprint for a true cosmic digital civilization through technological subsidiaries including **Cosmovisit**, **Gharbotics**, **Pravartanic**, and **Wodgeland**.
+* 🏢 **Ecosystem & Entrepreneurship:** Founder & CEO of **Baahmarg**, leading a unified parent framework designed to build the blueprint for a true cosmic digital civilization by leveraging through technological subsidiaries including **Cosmovisit**, **Gharbotics**, **Pravartanic**, and **Wodgeland**.
 * 🌐 **Global Open Science:** Driving global scientific research by working towards establishing the international research arm **'Baahmarg Institute for Open Science'** as an independent non-profit legal entity (gGmbH) permanently based in Germany.
 * 📊 **Research Engine:** Architect of automated data pipelines meant to process, clean, analyze, and visualize massive astronomical datasets to enable open science and unlock deep universal truths.
 * ✒️ **Creative Philosophy & Identity:** Blending calligraphic mastery with astrophysics under **'Vikrantivity'** to unify personal, social, and digital outreach. Celebrating cosmic creativity annually via **'Srishtiful Day'**.
@@ -30,7 +30,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ```
 
 ### 🔬 Scientific Research Hubs
-* 🔭 **Core Focus:** Observational Astronomy, and utilizing **SymPy** for laws derivation within Open Frameworks.
+* 🔭 **Core Focus:** Observational Astronomy, and utilizing **SymPy** for derivation of laws within Open Frameworks.
 * 🧪 **Target Pathway:** IIT Indore (MSc Astronomy) ➡️ Max Planck Institute for Astronomy (Germany).
 
 ---
@@ -47,9 +47,9 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | Platform | Channel / Identity | Context & Purpose |
 | :--- | :--- | :--- |
 | | | |
-| 📱 **Personal Outreach** | **Vikrantivity** | **(Watch vikrantivity for more)** |
+| 📢  **Public Outreach** | **Vikrantivity** | **(Watch vikrantivity for more)** |
 | 🐦 Twitter | [Communicator](https://x.com/vikrantivity) | Micro-blogging & Deep Tech |
-| 📺 YouTube | [Watch on Channel](https://youtube.com/@vikrantivity) | Personal Science Communication |
+| 📺 YouTube | [Watch on Channel](https://youtube.com/@vikrantivity) | Science Communication & Outreach |
 | 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | Calligraphy & Visual Communication |
 | | | |
 | 📰 **Scientific Logbook** | **Dhannulekh** | **(Logbook of Scientific Words)** |
