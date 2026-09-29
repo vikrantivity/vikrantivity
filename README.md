@@ -55,7 +55,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | 📰 **Scientific Logbook** | **Dhannulekh** | **(Logbook of Scientific Words)** |
 | ✍️ e-letter | [Communicator](https://linkedin.com/build-relation/newsletter-follow?entityUrn=7499615428529451008) | Deep Science and Philosophy |
 | 🎥 YouTube | [Watch on Channel](https://youtube.com/@dhannulekh) | Cosmic & Deep Tech Broadcasts |
-| 💬 WhatsApp | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Quick Logbook & Media Updates |
+| 💬 WhatsApp | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Explore e-letter & Quick Media Updates |
 | | | |
 | 🎓 **Professional Portfolio** | **Vikrant Kumar** | **(Space Scientist for Humanity)** |
 | 🦋 Bluesky | [Open on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Community Hub |
