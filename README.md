@@ -42,7 +42,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | 📢 **Public Outreach** | **Vikrantivity** | **(Watch vikrantivity for more)** |
 | 🐦 Twitter | [Communicator](https://x.com/vikrantivity) | Scientific Highlights & Events |
 | 📺 YouTube | [Watch on Channel](https://youtube.com/@vikrantivity) | Space Science Communication |
-| 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | The Calligraphic Expressions |
+| 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | Art & Calligraphic Expressions |
 | | | |
 | 📰 **Scientific Logbook** | **Dhannulekh** | **(Logbook of Scientific Words)** |
 | ✍️ E-letter | [Communicator](https://linkedin.com/company/dhannulekh) | Deep Science and Philosophy |
