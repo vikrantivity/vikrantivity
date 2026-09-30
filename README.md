@@ -19,9 +19,9 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 ```🌐
 🐧 System & Controlling    ::  Linux | Git | VS Code | Docker | AWS
-📡 Scientific Computing    ::  SciPy | NumPy | Astropy | Dask | Pandas
 💻 Programming & Writing   ::  Python | LaTeX | SQL | Markdown | SymPy
-📊 🆗 Data Visualization   ::  Matplotlib | Seaborn | Plotly | OpenCV | Bokeh
+📡 Scientific Computing    ::  SciPy | NumPy | Astropy | Pandas | Dask
+📊 & Data Visualization    ::  Matplotlib | Seaborn | Plotly | OpenCV | Bokeh
 🤖 Machine Learning & AI   ::  Scikit-Learn | PyTorch | Hugging Face | TensorFlow | Keras
 ```
 
