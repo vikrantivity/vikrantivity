@@ -18,16 +18,16 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ### 🌌 Astronomy & Data Science (Core Research Stack)
 
 ```🌐
-🐧 System & Control        ::  Linux | Git | VS Code | Docker | AWS (alongwith GCP) 
+🐧 System & Controlling    ::  Linux | Git | VS Code | Docker | AWS (alongwith GCP) 
+📡 Scientific Computing    ::  SciPy | NumPy | Astropy | Dask | Pandas
 💻 Programming & Writing   ::  Python | LaTeX | SQL | SymPy | Markdown
-📉 Scientific Computing    ::  SciPy | NumPy | Astropy | Dask | Pandas 
-👁️ Data Visualization      ::  Matplotlib | Seaborn | Plotly | OpenCV | Bokeh
+📊 🆕 Data Visualization   ::  Matplotlib | Seaborn | Plotly | OpenCV | Bokeh
 🤖 Machine Learning & AI   ::  Scikit-Learn | PyTorch | Hugging Face | TensorFlow | Keras
 ```
 
 ### 🔬 Scientific Research Hubs
 * 🔭 **Core Focus:** Synthesizing Cosmic laws to engineer human eternity through observational deep science within open frameworks.
-* 🧪 **Target Pathway:** IIT Indore (MSc Astronomy) ➡️ Max Planck Institute for Astronomy (Germany).
+* 🚀 **Target Pathway:** IIT Indore (MSc Astronomy) ➡️ Max Planck Institute for Astronomy (Germany).
 
 ---
 
