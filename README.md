@@ -26,7 +26,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ```
 
 ### 🔬 Scientific Research Hubs
-* 🔭 **Core Focus:** Synthesizing Cosmic laws and engineering human eternity through Observational Astronomy, and derivation of laws within Open Frameworks.
+* 🔭 **Core Focus:** Synthesizing Cosmic laws to engineer human eternity through observational deep science within open frameworks.
 * 🧪 **Target Pathway:** IIT Indore (MSc Astronomy) ➡️ Max Planck Institute for Astronomy (Germany).
 
 ---
