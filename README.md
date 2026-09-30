@@ -11,7 +11,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 ## 🔬 Academic & Research Horizons
 
-* 🔭 **Core Focus:** Synthesizing Cosmic laws to engineer human eternity through observational deep science within open frameworks. **Core Research Areas:** Observational Astrophysics, Automated Data Pipelines, Cosmological Data Analysis, Astrophysics, Symbolic Computing, Machine Learning, Space Science and Open Science Systems.
+* 🔭 **Core Focus:** Synthesizing Cosmic laws to engineer human eternity through observational deep science within open frameworks. **& Core Research Areas:** Observational Astrophysics, Automated Data Pipelines, Cosmological Data Analysis, Astrophysics, Symbolic Computing, Machine Learning, Space Science and Open Science Systems.
   
 * 🚀 **Target Pathway:** **IIT Indore** *(MSc Astronomy)* ➡️ **Max Planck Institute for Astronomy** *(Heidelberg, Germany)*. 
 
