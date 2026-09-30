@@ -12,7 +12,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ## 🔬 Academic & Research Horizons
 
 * 🔭 **Core Focus:** Synthesizing Cosmic laws to decode quantum information and cosmic evolution through observational deep science within open frameworks.
-* 🔍 **Research Areas:** High-Energy Astrophysics, Observational Astronomy, Automated Data Pipelines, Cosmological Data Analysis, and Machine Learning & AI.
+* 🔍 **Core Research Areas:** High-Energy Astrophysics, Observational Astronomy, Automated Data Pipelines, Cosmological Data Analysis, and Machine Learning.
 * 🚀 **Target Pathway:** **IIT Indore** *(MSc Astronomy)* ➡️ **MPIA** *(Heidelberg, Germany)*. 
 
 ## 📚 Publications & Research Identity
