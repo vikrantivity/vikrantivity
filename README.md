@@ -1,4 +1,3 @@
-# Welcome to the Cosmic Realm of Vikrant Kumar!
 
 ---
 
