@@ -18,10 +18,10 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ### 🌌 Astronomy & Data Science (Core Research Stack)
 
 ```🌐
-🐧 System & Controlling    ::  Linux | Git | VS Code | Docker | AWS (alongwith GCP) 
+🐧 System & Controlling    ::  Linux | Git | VS Code | Docker | AWS
 📡 Scientific Computing    ::  SciPy | NumPy | Astropy | Dask | Pandas
-💻 Programming & Writing   ::  Python | LaTeX | SQL | SymPy | Markdown
-📊 🆕 Data Visualization   ::  Matplotlib | Seaborn | Plotly | OpenCV | Bokeh
+💻 Programming & Writing   ::  Python | LaTeX | SQL | Markdown | SymPy
+📊 🆗 Data Visualization   ::  Matplotlib | Seaborn | Plotly | OpenCV | Bokeh
 🤖 Machine Learning & AI   ::  Scikit-Learn | PyTorch | Hugging Face | TensorFlow | Keras
 ```
 
