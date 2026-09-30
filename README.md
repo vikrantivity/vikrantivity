@@ -42,12 +42,12 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | 📢 **Public Outreach** | **Vikrantivity** | **(Watch vikrantivity for more)** |
 | 🐦 Twitter | [Communicator](https://x.com/vikrantivity) | Scientific Highlights & Events |
 | 📺 YouTube | [Watch on Channel](https://youtube.com/@vikrantivity) | Space Science Communication |
-| 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | Creative Calligraphic Expressions |
+| 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | The Calligraphic Expressions |
 | | | |
 | 📰 **Scientific Logbook** | **Dhannulekh** | **(Logbook of Scientific Words)** |
 | ✍️ E-letter | [Communicator](https://linkedin.com/company/dhannulekh) | Deep Science and Philosophy |
 | 🎥 YouTube | [Watch on Channel](https://youtube.com/@dhannulekh) | Cosmic & Deep-tech Broadcasts |
-| 💬 WhatsApp | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Explore e-letter & Quick Updates |
+| 💬 WhatsApp | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Get e-letter & Quick Updates |
 | | | |
 | 🗂️ **Professional Portfolio** | **Vikrant Kumar** | **(Space Scientist for Humanity)** |
 | 🦋 Bluesky | [Open on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Community |
