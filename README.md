@@ -4,7 +4,7 @@
 
 ## 🎯 My Vision & Core Pursuits
 
-I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligraphic Author** originating from **Jamui, Bihar, India**, operating at the dynamic intersection of astronomy, data science, and human consciousness. 
+I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligraphic Author** originating from **Jamui**, **Bihar**, **India**, operating at the dynamic intersection of astronomy, data science, and human consciousness. 
 
 * 🏢 **Ecosystem & Entrepreneurship:** Founder & CEO of **Baahmarg**, leading a unified parent framework designed to build the blueprint for a true cosmic digital civilization by leveraging through technological subsidiaries including **Cosmovisit**, **Gharbotics**, **Pravartanic**, and **Wodgeland**.
 * 🌐 **Global Open Science:** Driving global scientific research by working towards establishing the international research arm **'Baahmarg Institute for Open Science'** as an independent non-profit legal entity (gGmbH) permanently based in Germany.
