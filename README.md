@@ -6,6 +6,19 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 * 🌐 **Global Open Science:** Driving global scientific research by working towards establishing the international research arm **'Baahmarg Institute for Open Science'** as an independent non-profit legal entity (gGmbH) permanently based in Germany.
 * 📊 **Research Engine:** Architect of automated data pipelines meant to process, clean, analyze, and visualize massive astronomical datasets to enable open science and unlock deep universal truths.
 * ✒️ **Creative Philosophy & Identity:** Blending calligraphic mastery with astrophysics under **'Vikrantivity'** to unify personal, social, and digital outreach. Celebrating cosmic creativity annually via **'Srishtiful Day'**.
+  
+---
+
+### 🔬 Scientific Research Hubs
+* 🔭 **Core Focus:** Synthesizing Cosmic laws to engineer human eternity through observational deep science within open frameworks.
+* 🚀 **Target Pathway:** IIT Indore (MSc Astronomy) ➡️ Max Planck Institute for Astronomy (Germany).
+
+---
+
+## 📚 Publications & Research Identity
+
+* 🆔 **ORCID iD:** [Welcome to the journey of an Open Researcher and Contributor](https://orcid.org/0009-0005-0666-2835)
+* 📄 **Featured Papers & Preprints:** *(Upcoming scientific publications and astrophysics research papers lists)*
 
 ---
 
@@ -20,18 +33,6 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 📊 Data Visualization      ::  Matplotlib | Seaborn | OpenCV | Plotly | Bokeh
 🤖 Machine Learning & AI   ::  Scikit-Learn | PyTorch | Hugging Face | TensorFlow | Keras
 ```
-
-### 🔬 Scientific Research Hubs
-* 🔭 **Core Focus:** Synthesizing Cosmic laws to engineer human eternity through observational deep science within open frameworks.
-* 🚀 **Target Pathway:** IIT Indore (MSc Astronomy) ➡️ Max Planck Institute for Astronomy (Germany).
-
----
-
-## 📚 Publications & Research Identity
-
-* 🆔 **ORCID iD:** [Welcome to the journey of an Open Researcher and Contributor](https://orcid.org/0009-0005-0666-2835)
-* 📄 **Featured Papers & Preprints:** *(Upcoming scientific publications and astrophysics research papers lists)*
-
 ---
 
 ## 🌐 Broadcast Channels & Networks
