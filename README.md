@@ -1,6 +1,3 @@
-
----
-
 ## 🎯 My Vision & Core Pursuits
 
 I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligraphic Author** originating from **Jamui**, **Bihar**, **India**, operating at the dynamic intersection of astronomy, data science, and human consciousness. 
