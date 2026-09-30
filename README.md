@@ -12,7 +12,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ## 🔬 Academic & Research Horizons
 
 * 🔭 **Core Focus:** Synthesizing Cosmic laws to engineer human eternity through observational deep science within open frameworks. **& Core Research Areas:** Observational Astronomy, Automated Data Pipelines, Cosmological Data Analysis, Astrophysics, Machine Learning, Space Science and Open Science Systems.
-* 🚀 **Target Pathway:** **IIT Indore** *(MSc Astronomy)* ➡️ **Max Planck Institute for Astronomy** *(Heidelberg, Germany)*. 
+* 🚀 **Target Pathway:** **IIT Indore** *(MSc Astronomy)* ➡️ **MPIA** *(Heidelberg, Germany)*. 
 
 ## 📚 Publications & Research Identity
 
@@ -36,13 +36,13 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 ## 🌐 Broadcast Channels & Networks
 
-| Communication | Hindi \| English \| German | Global Outreach and Research Base |
+| Communication | Hindi \| English \| German | Global Outreach and Research |
 | :--- | :--- | :--- |
 | | | |
 | 📢 **Public Outreach** | **Vikrantivity** | **(Watch vikrantivity for more)** |
 | 🐦 Twitter | [Communicator](https://x.com/vikrantivity) | Scientific Highlights & Events |
-| 📺 YouTube | [Watch on Channel](https://youtube.com/@vikrantivity) | Science Communication & Outreach |
-| 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | Calligraphy & Creative Expressions |
+| 📺 YouTube | [Watch on Channel](https://youtube.com/@vikrantivity) | Space Science Communication |
+| 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | Active & Creative Expressions |
 | | | |
 | 📰 **Scientific Logbook** | **Dhannulekh** | **(Logbook of Scientific Words)** |
 | ✍️ E-letter | [Communicator](https://linkedin.com/company/dhannulekh) | Deep Science and Philosophy |
