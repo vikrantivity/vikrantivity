@@ -41,7 +41,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | | | |
 | 📢 **Public Outreach** | **Vikrantivity** | **(Watch vikrantivity for more)** |
 | 🐦 Twitter | [Communicator](https://x.com/vikrantivity) | Scientific Highlights & Events |
-| 📺 YouTube | [Watch on Channel](https://youtube.com/@vikrantivity) | Space Science Communication |
+| 📺 YouTube | [Watch on Channel](https://youtube.com/@vikrantivity) | Space Science & Outreach |
 | 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | Art & Calligraphic Expressions |
 | | | |
 | 📰 **Scientific Logbook** | **Dhannulekh** | **(Logbook of Scientific Words)** |
@@ -50,7 +50,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | 💬 WhatsApp | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Get e-letter & Quick Updates |
 | | | |
 | 🗂️ **Professional Portfolio** | **Vikrant Kumar** | **(Space Scientist for Humanity)** |
-| 🦋 Bluesky | [Open on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Community |
+| 🦋 Bluesky | [Open on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Communication |
 | 💼 LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/vikrantivity) | Executive & Enterprise Identity |
 | 🔬 ResearchGate | [Join on ResearchGate](https://researchgate.net) | Academic Preprints & Networks |
 | | | |
