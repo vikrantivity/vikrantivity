@@ -60,5 +60,5 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 <p align="center">
   🛸 <b>Explore the Cosmic Ecosystem Beyond GitHub</b><br>
-  ✨ <b><a href="https://vikrantivity.com" style="text-decoration:none; color:#0E76A8;">Thank you for visiting! Click here to explore the main website ↗</a></b> ✨<br>
+  ✨ <b><a href="https://baahmarg.org" style="text-decoration:none; color:#0E76A8;">Thank you for visiting! Click here to explore the main website ↗</a></b> ✨<br>
 </p>
