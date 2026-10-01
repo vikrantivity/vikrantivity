@@ -9,9 +9,9 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
   
 ---
 
-## 🔬 Academic & Research Horizons
+## 🔭 Academic & Research Horizons
 
-* 🔭 **Core Focus:** Synthesizing Cosmic laws to decode quantum information and cosmological evolution through observational deep science within open systems.
+* 🧬 **Core Focus:** Synthesizing Cosmic laws to decode quantum information and cosmological evolution through observational deep science within open systems.
 * 📡 **Core Research Areas:** High-Energy Astrophysics, Observational Astronomy, Automated Data Pipelines, Cosmological Data Analysis, and Machine Learning.
 * 🎓 **Target Pathway:** **IIT Indore** *(MSc Astronomy)* ➡️ **MPIA** *(Heidelberg, Germany)*. 
 
@@ -29,7 +29,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ```🌐
 🐧 System & Controlling    ::  Linux | Git | VS Code | Docker | AWS
 💻 Programming & Writing   ::  Python | LaTeX | SQL | Markdown | Bash
-📡 Scientific Computing    ::  NumPy+SymPy | SciPy | Astropy | Pandas | Dask
+🧮 Scientific Computing    ::  NumPy+SymPy | SciPy | Astropy | Pandas | Dask
 📊 Data Visualization      ::  Matplotlib | Seaborn | OpenCV | Plotly | Bokeh
 🤖 Machine Learning & AI   ::  Scikit-Learn | PyTorch | Hugging Face | TensorFlow
 ```
