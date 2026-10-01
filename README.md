@@ -12,8 +12,8 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ## 🔬 Academic & Research Horizons
 
 * 🔭 **Core Focus:** Synthesizing Cosmic laws to decode quantum information and cosmological evolution through observational deep science within open systems.
-* 🔍 **Core Research Areas:** High-Energy Astrophysics, Observational Astronomy, Automated Data Pipelines, Cosmological Data Analysis, and Machine Learning.
-* 🚀 **Target Pathway:** **IIT Indore** *(MSc Astronomy)* ➡️ **MPIA** *(Heidelberg, Germany)*. 
+* 📡 **Core Research Areas:** High-Energy Astrophysics, Observational Astronomy, Automated Data Pipelines, Cosmological Data Analysis, and Machine Learning.
+* 🎓 **Target Pathway:** **IIT Indore** *(MSc Astronomy)* ➡️ **MPIA** *(Heidelberg, Germany)*. 
 
 ## 📚 Publications & Research Identity
 
@@ -51,7 +51,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | 💬 WhatsApp | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Get e-letter & Quick Updates |
 | | | |
 | 🌐 **Professional Portfolio** | **Vikrant Kumar** | **(Space Scientist for Humanity)** |
-| 🦋 Bluesky | [Open on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Communication |
+| 📢 Bluesky | [Open on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Communication |
 | 💼 LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/vikrantivity) | Executive & Enterprise Identity |
 | ⚛️ ResearchGate | [Join on ResearchGate](https://researchgate.net) | Academic Preprints & Networks |
 | | | |
