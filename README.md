@@ -4,16 +4,16 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 * 🏢 **Ecosystem & Entrepreneurship:** Founder & CEO of **Baahmarg**, leading a unified parent framework designed to build the blueprint for a true cosmic digital civilization by leveraging through technological subsidiaries including **Cosmovisit**, **Gharbotics**, **Pravartanic**, and **Wodgeland**.
 * 🌐 **Global Open Science:** Driving global scientific research by working towards establishing the international research arm **'Baahmarg Institute for Open Science'** as an independent non-profit legal entity (gGmbH) permanently based in Germany.
-* 📊 **Research Engine:** Architect of automated data pipelines meant to process, clean, analyze, and visualize massive astronomical datasets to enable open science and unlock deep universal truths.
-* ✒️ **Creative Philosophy & Identity:** Blending calligraphic mastery with astrophysics under **'Vikrantivity'** to unify personal, social, and digital outreach. Celebrating cosmic creativity annually via **'Srishtiful Day'**.
+* ⚙️ **Research Engine:** Architect of automated data pipelines meant to process, clean, analyze, and visualize massive astronomical datasets to enable open science and unlock deep universal truths.
+* ✍️ **Creative Philosophy & Identity:** Blending calligraphic mastery with astrophysics under **'Vikrantivity'** to unify personal, social, and digital outreach. Celebrating cosmic creativity annually via **'Srishtiful Day'**.
   
 ---
 
-## 🔭 Academic & Research Horizons
+## 🎓 Academic & Research Horizons
 
 * 🧬 **Core Focus:** Synthesizing Cosmic laws to decode quantum information and cosmological evolution through observational deep science within open systems.
 * 📡 **Core Research Areas:** High-Energy Astrophysics, Observational Astronomy, Automated Data Pipelines, Cosmological Data Analysis, and Machine Learning.
-* 🎓 **Target Pathway:** **IIT Indore** *(MSc Astronomy)* ➡️ **MPIA** *(Heidelberg, Germany)*. 
+* 🔭 **Target Pathway:** **IIT Indore** *(MSc Astronomy)* ➡️ **MPIA** *(Heidelberg, Germany)*. 
 
 ## 📚 Publications & Research Identity
 
@@ -22,7 +22,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 ---
 
-## 🛠️ Deep Tech Stack & Ecosystem
+## ⚙️ Deep Tech Stack & Ecosystem
 
 ### 🌌 Astronomy & Data Science (Core Research Stack)
 
@@ -45,7 +45,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | 📺 YouTube | [Watch on Channel](https://youtube.com/@vikrantivity) | Space Science and Outreach |
 | 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | Art & Calligraphic Expressions |
 | | | |
-| 📰 **Scientific Logbook** | [**Dhannulekh**](https://dhannulekh.com) | **(Logbook of Scientific Words)** |
+| 📖 **Scientific Logbook** | [**Dhannulekh**](https://dhannulekh.com) | **(Logbook of Scientific Words)** |
 | ✍️ E-letter | [Communicator](https://www.linkedin.com/newsletters/dhannulekh-7499615428529451008) | Deep Science and Philosophy |
 | 🎥 YouTube | [Watch on Channel](https://youtube.com/@dhannulekh) | Cosmic Deep-tech Broadcasts |
 | 💬 WhatsApp | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Get e-letter & Quick Updates |
