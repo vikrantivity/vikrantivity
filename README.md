@@ -50,8 +50,8 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | 🎥 YouTube | [Watch on Channel](https://youtube.com/@dhannulekh) | Cosmic Deep-tech Broadcasts |
 | 💬 WhatsApp | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Get e-letter & Quick Updates |
 | | | |
-| 🌐 **Professional Portfolio** | [**Vikrant Kumar**](https://github.com/vikrantivity) | **(Space Scientist for Humanity)** |
-| 📢 Bluesky | [Open on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Communication |
+| 👤 **Professional Portfolio** | [**Vikrant Kumar**](https://github.com/vikrantivity) | **(Space Scientist for Humanity)** |
+| 🌟 Bluesky | [Open on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Communication |
 | 💼 LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/vikrantivity) | Executive & Enterprise Identity |
 | ⚛️ ResearchGate | [Join on ResearchGate](https://researchgate.net) | Academic Preprints & Networks |
 | | | |
