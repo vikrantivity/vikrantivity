@@ -51,7 +51,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | 💬 WhatsApp | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Get e-letter & Quick Updates |
 | | | |
 | 👤 **Professional Portfolio** | [**Vikrant Kumar**](https://researchgate.net) | **(Space Scientist for Humanity)** |
-| 🤖 GitHub | [Join on GitHub](https://github.com/vikrantivity) | Academic Preprints & Networks |
+| 🤖 GitHub | [Join on GitHub](https://github.com/vikrantivity) | Open Source Research Codes |
 | ✍️ Bluesky | [Open on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Communication |
 | 💼 LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/vikrantivity) | Executive & Enterprise Identity |
 | | | |
