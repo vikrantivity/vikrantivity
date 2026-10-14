@@ -22,9 +22,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 ---
 
-## ⚙️ Deep Tech Stack & Ecosystem
-
-### 🌌 Astronomy & Data Science (Core Research Stack)
+## ⚙️ Deep Tech & Core Research Stack
 
 ```🌐
 🐧 System & Controlling    ::  Linux | Git | VS Code | Docker | AWS
