@@ -53,7 +53,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | 👤 **Professional Portfolio** | [**Vikrant Kumar**](https://researchgate.net) | **(Space Scientist for Humanity)** |
 | 🤖 GitHub | [Join on GitHub](https://github.com/vikrantivity) | Open Source Code Repositories |
 | 🕊️ Bluesky | [Open on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Communication |
-| 💼 LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/vikrantivity) | Open Enterprise Collaboration Network |
+| 💼 LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/vikrantivity) | Open Enterprises Collaboration |
 | | | |
 
 ---
