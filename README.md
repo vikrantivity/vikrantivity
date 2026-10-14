@@ -33,7 +33,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ```
 ---
 
-## 🌐 Broadcast Channels & Networks
+## 🌐 Broadcasting Channels & Networks
 
 | Communication | Hindi \| English \| German | Global Outreach and Research |
 | :--- | :--- | :--- |
