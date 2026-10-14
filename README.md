@@ -46,13 +46,13 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | Art & Calligraphic Expressions |
 | | | |
 | 📓 **Scientific Logbook** | [**Dhannulekh**](https://dhannulekh.com) | **(Logbook of Scientific Words)** |
-|  E-letter | [Communicator](https://www.linkedin.com/newsletters/dhannulekh-7499615428529451008) | Deep Science and Philosophy |
+| ✍️ E-letter | [Communicator](https://www.linkedin.com/newsletters/dhannulekh-7499615428529451008) | Deep Science and Philosophy |
 | 🎥 YouTube | [Watch on Channel](https://youtube.com/@dhannulekh) | Cosmic Deep-tech Broadcasts |
 | 💬 WhatsApp | [Follow on WhatsApp](https://whatsapp.com/channel/0029Vb8Te4477qVUtALAzr0b) | Get e-letter & Quick Updates |
 | | | |
 | 👤 **Professional Portfolio** | [**Vikrant Kumar**](https://researchgate.net) | **(Space Scientist for Humanity)** |
-| 🤖 GitHub | [Join on GitHub](https://github.com/vikrantivity) | Open Source Research Codes |
-| ✍️ Bluesky | [Open on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Communication |
+| 🤖 GitHub | [Join on GitHub](https://github.com/vikrantivity) | Open Source Repositories |
+| 🦋 Bluesky | [Open on Bluesky ](https://bsky.app/profile/vikrantivity.bsky.social) | Open Science Communication |
 | 💼 LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/vikrantivity) | Executive & Enterprise Identity |
 | | | |
 
