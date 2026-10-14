@@ -17,7 +17,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 ## 📚 Publications & Research Identity
 
-* 🆔 **ORCID iD:** [Welcome to the journey of an Open Researcher and Contributor](https://orcid.org/0009-0005-0666-2835)
+* 🆔 **ORCID:** [Welcome to the journey of an Open Researcher and Contributor](https://orcid.org/0009-0005-0666-2835)
 * 📄 **Featured Papers & Preprints:** *(Upcoming scientific publications and astrophysics research papers lists)*
 
 ---
@@ -29,7 +29,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ```🌐
 🐧 System & Controlling    ::  Linux | Git | VS Code | Docker | AWS
 💻 Programming & Writing   ::  Python | LaTeX | SQL | Markdown | Bash
-🧮 Scientific Computing    ::  NumPy+SymPy | SciPy | Astropy | Pandas | Dask
+🧮 Scientific Computing    ::  NumPy | SciPy | Astropy | Pandas | Dask
 📊 Data Visualization      ::  Matplotlib | Seaborn | OpenCV | Plotly | Bokeh
 🤖 Machine Learning & AI   ::  Scikit-Learn | PyTorch | Hugging Face | TensorFlow
 ```
