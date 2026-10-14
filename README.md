@@ -4,7 +4,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 
 * 🏢 **Ecosystem & Entrepreneurship:** Founder & CEO of **Baahmarg**, leading a unified parent framework designed to build the blueprint for a true cosmic digital civilization by leveraging through technological subsidiaries including **Cosmovisit**, **Gharbotics**, **Pravartanic**, and **Wodgeland**.
 * 🌐 **Global Open Science:** Driving global scientific research by working towards establishing the international research arm **'Baahmarg Institute for Open Science'** as an independent non-profit legal entity (gGmbH) permanently based in Germany.
-* 🔭 **Research Engine:** Architect of automated data pipelines meant to process, clean, analyze, and visualize massive astronomical datasets to enable open science and unlock deep universal truths.
+* 📡 **Research Engine:** Architect of automated data pipelines meant to process, clean, analyze, and visualize massive astronomical datasets to enable open science and unlock deep universal truths.
 * 🎨 **Creative Philosophy & Identity:** Blending calligraphic mastery with astrophysics under **'Vikrantivity'** to unify personal, social, and digital outreach. Celebrating cosmic creativity annually via **'Srishtiful Day'**.
   
 ---
@@ -12,7 +12,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 ## 🌌 Academic & Research Horizons
 
 * 🧬 **Core Focus:** Synthesizing Cosmic laws to decode quantum information and cosmological evolution through observational deep science within open systems.
-* 📡 **Core Research Areas:** High-Energy Astrophysics, Observational Astronomy, Automated Data Pipelines, Cosmological Data Analysis, and Machine Learning.
+* 🔭 **Core Research Areas:** High-Energy Astrophysics, Observational Astronomy, Automated Data Pipelines, Cosmological Data Analysis, and Machine Learning.
 * 🎓 **Target Pathway:** **IIT Indore** *(MSc Astronomy)* ➡️ **MPIA** *(Heidelberg, Germany)*. 
 
 ## 📚 Publications & Research Identity
