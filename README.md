@@ -44,7 +44,7 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | Art & Calligraphic Expressions |
 | | | |
 | 📓 **Scientific Logbook** | [**Dhannulekh**](https://dhannulekh.com) | **(Logbook of Scientific Words)** |
-| 🎙️ Spotify | [Get on Spotify](https://open.spotify.com/show/4jtYHEYEWN7CY0V2DpwYaf) | Deep Science and Philosophy |
+| 🎙️ Spotify | [Listen on Spotify](https://open.spotify.com/show/4jtYHEYEWN7CY0V2DpwYaf) | Deep Science and Philosophy |
 | 🎥 YouTube | [Explore on YouTube](https://youtube.com/@dhannulekh) | Cosmic Deep-tech Broadcasts |
 | ✍️ Newsletter | [Subscribe on LinkedIn](https://linkedin.com/newsletters/dhannulekh-7499615428529451008) | Get e-letter & Quick Updates |
 | | | |
