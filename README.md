@@ -39,12 +39,12 @@ I am a **Space Scientist for Humanity**, **Science Communicator**, and **Calligr
 | :--- | :--- | :--- |
 | | | |
 | 📢 **Public Outreach** | [**Vikrantivity**](https://vikrantivity.com) | **(Watch vikrantivity for more)** |
-| 🐦 Twitter | [Updates on X](https://x.com/vikrantivity) | Scientific Highlights & Events |
+| 🐦 Twitter | [Tune on Twitter](https://x.com/vikrantivity) | Scientific Highlights & Events |
 | 📺 YouTube | [Watch on Channel](https://youtube.com/@vikrantivity) | Space Science and Outreach |
 | 📸 Instagram | [Follow on Instagram](https://instagram.com/vikrantivity) | Art & Calligraphic Expressions |
 | | | |
 | 📓 **Scientific Logbook** | [**Dhannulekh**](https://dhannulekh.com) | **(Logbook of Scientific Words)** |
-| 🎙️ Spotify | [Tune on Show](https://open.spotify.com/show/) | Deep Science and Philosophy |
+| 🎙️ Spotify | [Show on Spotify](https://open.spotify.com/show/) | Deep Science and Philosophy |
 | 🎥 YouTube | [Watch on Channel](https://youtube.com/@dhannulekh) | Cosmic Deep-tech Broadcasts |
 | ✍️ Newsletter | [Subscribe on LinkedIn](https://linkedin.com/newsletters/dhannulekh-7499615428529451008) | Get e-letter & Quick Updates |
 | | | |
